@@ -2,7 +2,6 @@ import re
 import os
 import shutil
 import pandas as pd
-import sys
 
 # Lectura del excel
 df = pd.read_excel("nomenclatura.xlsx")
