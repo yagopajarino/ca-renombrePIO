@@ -7,23 +7,18 @@ Renombrar archivos PDF para presentación ante ENARGAS.
 Software necesario:
 <ul>
   <li>Python 3.6 o superior 👉 <a href="https://www.python.org/downloads/">descargar</a></li>
-  <li>Java para Windows 👉 <a href="https://www.java.com/es/download/ie_manual.jsp">descargar</a></li>
 </ul>
 
-Ambos deben estar incluidos en el PATH del sistema. <a href="https://www.java.com/es/download/help/path_es.html">Cómo cambiar variables del sistema</a>
+Debe estar incluido en el PATH del sistema. <a href="https://www.java.com/es/download/help/path_es.html">Cómo cambiar variables del sistema</a>
 
 Al momento de instalar python, ofrece la posibilidad de agregarlo al PATH del sistema (opción "Add Python 3.9 to PATH) 👇
 
 ![image](https://user-images.githubusercontent.com/84155397/126665001-5b8d2fe9-d690-4f3b-ac5a-45b2f6036e99.png)
 
-Java no ofrece la opción de agregar al PATH al momento de la instalación, por lo que es necesario hacerlo manualmente. El directorio que debe agregarse al PATH (en caso de haber utilizado la carpeta de descarga por defecto):
-```
-C:\Program Files (x86)\Java\bin
-```
 ## Descarga de archivos 📂
 Descargar los archivos de este repositorio y extraer en alguna carpeta de la computadora. 
 
-<a href="https://github.com/yagopajarino/ca-cmSAP/archive/refs/heads/main.zip">Descargar archivos</a>
+<a href="https://github.com/yagopajarino/ca-renombrePIO/archive/refs/heads/main.zip">Descargar archivos</a>
 
 Luego se debe abrir un CMD (Simbolo del sistema) en la carpeta donde están descargados los archivos, para ello:
 <ol>
